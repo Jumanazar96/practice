@@ -1,0 +1,9 @@
+.navbar_frame {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: #443297;
+}
