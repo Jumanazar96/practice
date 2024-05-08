@@ -556,11 +556,12 @@
 }
 
 .products_wrap .product_boxes {
-  width: 1320px;
-  height: 452px;
+  width: 1300px;
+  height: auto;
 
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 
   border: 1px solid #eaeaea;
   background: #fff;
